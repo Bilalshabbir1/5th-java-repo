@@ -1,0 +1,31 @@
+.navbar{
+background-color: #1d3557 !important;
+}
+body{
+    background-color: f1faee;
+}
+
+main{
+    flex: 1 0 auto;
+    .OriginalStringBox {
+      background-color: #1d3557;
+    }
+    
+     .buttons{ 
+        .btn {
+            margin-bottom: 8px;
+            min-width: 45%;
+        }
+    } 
+}
+ .btn:last-child{
+    margin-bottom: 0%;
+} 
+.border{
+    border-color: #1d3557 !important;
+}
+
+
+footer{
+    background-color:#1d3557 ;
+}
